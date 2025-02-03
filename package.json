@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "unittest",
+  "version": "1.0.0",
+  "description": "This is code showing me learning how to do tests using mocha and chai with leetcode 1462",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./specs/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0"
+  }
+}
