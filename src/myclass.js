@@ -8,6 +8,7 @@ export default class myclass{
     }
 
     checkIfPrerequisite(numCourses, prerequisites, queries) {
+        //[2, [[1,0]],[[0,1],[1,0]],[false,true]]
         let hashmap = {}
         let skipflag =false;
         let free= []
