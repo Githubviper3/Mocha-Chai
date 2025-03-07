@@ -5,7 +5,8 @@
   "description": "This is code showing me learning how to do tests using mocha and chai with leetcode 1462",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./specs/*.spec.js"
+    "test": "mocha ./specs/L-1462.spec.js",
+    "test2": "mocha ./specs/L-2579.spec.js"
   },
   "author": "",
   "license": "ISC",
